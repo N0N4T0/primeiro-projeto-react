@@ -16,7 +16,7 @@
 
 
 ## About
-<p>Projeto que permite pesquisa de autores e repositórios utilizando api do Github para trazer os dados. Esse projeto foi desenvolvido no Bootcamp da Rocketseat</p>
+<p align="justify">Projeto que permite pesquisa de autores e repositórios utilizando api do Github para trazer os dados. O local storage permite armazenameto em cache, então mesmo que seja atualizado a página as informações ficarão salvas. Esse projeto foi desenvolvido no Bootcamp da Rocketseat</p>
 
 ## Get Started
 
